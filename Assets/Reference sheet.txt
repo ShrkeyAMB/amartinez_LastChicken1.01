@@ -1,0 +1,19 @@
+Videos Used:
+
+-Isometric Character controller in Unity -Tarodev
+-Aiming in a 3D top down game in 3 minutes -Bartha szalbocs GameDev journey
+-How to make enemy follow player -fui
+-How to randomly spawn enemy positions with C# unity tutorial - jimmy vegas
+-Scene manager in unity - Code monkey
+-Unity UI | and introduction - AIA
+-how to add multiple sound effects in unity under 3 minutes -Game dev show
+
+
+Assets:
+
+all made by yours truly
+
+
+sounds and music:
+
+Pixabay Free sounds 
